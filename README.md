@@ -1,2 +1,1 @@
-# assignment1
-for the assignment
+This repository contains a basic Python program that prints “Hello, World!” to the console. The purpose of this project is to demonstrate the simplest structure of a Python script and to help beginners verify that Python is correctly installed and functioning on their system. The project uses Python 3 and includes a single file, hello.py. The program can be executed by opening a terminal or command prompt, navigating to the directory containing the file, and running the command python hello.py. Upon execution, the program outputs the text “Hello, World!”. This project is intended for learning and educational use.
